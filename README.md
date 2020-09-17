@@ -1,4 +1,4 @@
-![GitHub Logo](/images/background.gif)
+![GitHub Logo](/images/background.gif){:width="200%"}
 
 ### Hi there 👋
 
