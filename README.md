@@ -3,7 +3,7 @@
 ## Hi there 👋 🌴
 I'm Amanda Palma, nice to meet you!
 
-I'm from Seville, Spain, and now I live in Madrid. In my recent past I worked as a cultural manager, but now I have become a:
+I'm from Seville, Spain, but now I live in Madrid. I use to work as a cultural manager, but now I have become a:
 
 <img src="/images/devgirl.gif" width="50"/>    ✨FRONT END DEVELOPER GIRL!!!✨
  <br/>
