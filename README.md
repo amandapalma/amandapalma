@@ -1,12 +1,12 @@
-![GitHub Logo](/images/background.gif){:width="200%"}
+<img src="/images/background.gif" alt="alt text" width="920" />
 
 ### Hi there 👋
 
 I'm Amanda Palma, nice to meet you!
 In my recent past I worked as a cultural manager, but now I have become a
-✨ super FRONT END DEVELOPER girl ✨ ;)
+✨ **super FRONT END DEVELOPER girl** ✨ ;)
 
-I'm also musician and I love design!
+I'm also **musician** and I love **design**!
 
 I like psychology, plants, animals, nice people of any race, color, height, origin, age, sex... and of course, I love to have fun as much as possible doing whatever I'm doing. 👯
 
