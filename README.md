@@ -1,4 +1,4 @@
-![GitHub Logo](/images/Palmtrees.gif)
+![GitHub Logo](/images/palmtrees2.gif)
 
 ### Hi there 👋
 
