@@ -1,4 +1,8 @@
-![GitHub Logo](/images/background.gif)
+<img src="/images/background.gif" alt="alt text" width="920" />
+
+
+
+
 
 ### Hi there 👋
 
