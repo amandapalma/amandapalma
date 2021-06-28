@@ -10,7 +10,8 @@ I'm from Seville ( 🇪🇸 ) but I live in Madrid. I use to work as a cultural 
 
  <br/>
  
-![ASD](https://img.shields.io/badge/Javascript-grey?logo=javascript&logoColor=yellow) ![ASD](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) ![ASD](https://img.shields.io/badge/HTML5-grey?logo=html5&logoColor=orange) ![ASD](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white) ![ASD](https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&logoColor=white) ![ASD](https://img.shields.io/badge/SASS-ff69b4?logo=SASS&logoColor=white) ![ASD](https://img.shields.io/badge/Git-red?logo=Git&logoColor=white)
+![ASD](https://img.shields.io/badge/Javascript-grey?logo=javascript&logoColor=yellow) 
+![ASD](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white) ![ASD](https://img.shields.io/badge/React-lightblue?logo=react&logoColor=white) ![ASD](https://img.shields.io/badge/HTML5-lightyellow?logo=html5&logoColor=orange) ![ASD](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white) ![ASD](https://img.shields.io/badge/Styled_Components-blueviolet?logo=bootstrap&logoColor=white) ![ASD](https://img.shields.io/badge/SASS-ff69b4?logo=SASS&logoColor=white) ![ASD](https://img.shields.io/badge/Git-black?logo=Git&logoColor=white)
 
 ## What else about me? 🎸
 I'm also **musician** and I love **design**!
